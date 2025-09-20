@@ -13,6 +13,7 @@ TABLE OF CONTENT
 Variable Climate monitoring
 - [Surface skin temperature](https://mstafafarahani.users.earthengine.app/view/surfaceskintemperature)
 - [Wind Speed](https://mstafafarahani.users.earthengine.app/view/windspeed)
+- [Surface pressure](https://mstafafarahani.users.earthengine.app/view/surfacepressure)
 
 
 AIR QUALITY
