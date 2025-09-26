@@ -19,7 +19,7 @@ Variable Climate monitoring
 
 AIR QUALITY
 - [AIR POLLUTION PM 2.5](https://mstafafarahani.users.earthengine.app/view/airqualitypm25)
-- [Carbon Monoxide CO](https://mstafafarahani.users.earthengine.app/view/airqualitycarbonmonoxideco)
+- [Carbon Monoxide CO](https://mstafafarahani.users.earthengine.app/view/airpollutioncarbonmonoxideco)
 - [ACETONE](https://mstafafarahani.users.earthengine.app/view/air-pollution-acetone)
 - [Air Quality Ozone O³](https://mstafafarahani.users.earthengine.app/view/airpollutiono3ozon)
 - [Air Pollution Black Carbon](https://mstafafarahani.users.earthengine.app/view/airblackcarbon)
