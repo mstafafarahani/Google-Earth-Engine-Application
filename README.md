@@ -20,7 +20,7 @@ Variable Climate monitoring
 AIR QUALITY
 - [Sulfur Dioxide SO²](https://mstafafarahani.users.earthengine.app/view/airpollotionso2)
 - [AIR POLLUTION PM 2.5](https://mstafafarahani.users.earthengine.app/view/airqualitypm25)
-- [Nitrogen DioxideNO²](https://mstafafarahani.users.earthengine.app/view/airpollutionnitrogendioxideno2)
+- [Nitrogen Dioxide NO²](https://mstafafarahani.users.earthengine.app/view/airqualitynitrogendioxideno2)
 - [Carbon Monoxide CO](https://mstafafarahani.users.earthengine.app/view/airpollutioncarbonmonoxideco)
 - [ACETONE](https://mstafafarahani.users.earthengine.app/view/air-pollution-acetone)
 - [Air Quality Ozone O³](https://mstafafarahani.users.earthengine.app/view/airpollutiono3ozon)
