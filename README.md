@@ -1,6 +1,6 @@
 # Google-Earth-Engine-Application-for-remote-sensing-satellite-imagery
 
-It's mstafa phd candidate create web based application deals with environmental monitoring and exports  png map csv time series chart and gif animation and mp4 video. My YouTube is  YouTube.com/@geemap   my Linkedin.com/mstafafarahani 
+It's mstafa phd candidate or open to Role create web based application deals with environmental monitoring and exports  png map csv time series chart and gif animation and mp4 video. My YouTube is  YouTube.com/@geemap   my Linkedin.com/mstafafarahani 
 Mstafa.farahani@gmail.com 
 these Remotesensing applications easily work with them , I write heavyyyyy code for better satellite-based imagery , in order to more utility in Earth Observation. 
 
@@ -20,7 +20,7 @@ Variable Climate monitoring
 AIR QUALITY
 - [Sulfur Dioxide SO²](https://mstafafarahani.users.earthengine.app/view/airpollotionso2)
 - [AIR POLLUTION PM 2.5](https://mstafafarahani.users.earthengine.app/view/airqualitypm25)
-- [Air Quality Nitrogen DioxideNO²](https://mstafafarahani.users.earthengine.app/view/airpollutantnitrogendioxideno2)
+- [Nitrogen DioxideNO²](https://mstafafarahani.users.earthengine.app/view/airpollutionnitrogendioxideno2)
 - [Carbon Monoxide CO](https://mstafafarahani.users.earthengine.app/view/airpollutioncarbonmonoxideco)
 - [ACETONE](https://mstafafarahani.users.earthengine.app/view/air-pollution-acetone)
 - [Air Quality Ozone O³](https://mstafafarahani.users.earthengine.app/view/airpollutiono3ozon)
