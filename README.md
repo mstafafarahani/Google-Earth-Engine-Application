@@ -23,7 +23,7 @@ AIR QUALITY
 - [Nitrogen Dioxide NO²](https://mstafafarahani.users.earthengine.app/view/airqualitynitrogendioxideno2)
 - [Carbon Monoxide CO](https://mstafafarahani.users.earthengine.app/view/airpollutioncarbonmnoxideco)
 - [ACETONE](https://mstafafarahani.users.earthengine.app/view/air-pollution-acetone)
-- [Air Quality Ozone O³](https://mstafafarahani.users.earthengine.app/view/airpollutiono3ozon)
+- [Ozone O³](https://mstafafarahani.users.earthengine.app/view/airqualityozoneo3)
 - [Air Pollution Black Carbon](https://mstafafarahani.users.earthengine.app/view/airblackcarbon)
 - [Air Pollution Formaldehyde HCHO](https://mstafafarahani.users.earthengine.app/view/airformaldehyde)
 - [Air Pollution Nitric Acid](https://mstafafarahani.users.earthengine.app/view/airqualitynitricacid)
