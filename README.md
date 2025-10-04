@@ -14,7 +14,7 @@ Variable Climate monitoring
 - [Precipitation mm ](https://mstafafarahani.users.earthengine.app/view/precipitation)
 - [Evapotranspiriation](https://mstafafarahani.users.earthengine.app/view/observationevapotranspiriation)
 - [Temperature °C](https://mstafafarahani.users.earthengine.app/view/temperature-c)
-- [Wind Speed](https://mstafafarahani.users.earthengine.app/view/windspeed)
+- [Wind Speed Direction](https://mstafafarahani.users.earthengine.app/view/windspeeddirection)
 - [Surface pressure](https://mstafafarahani.users.earthengine.app/view/surfacepressure)
 
 
