@@ -1,4 +1,5 @@
 # Google-Earth-Engine-Application-for-remote-sensing-satellite-imagery
+![Precipitation App Preview](https://s6.uupload.ir/files/c63f3a5f19ed907fe6fb699fa38fa949-cfc10e66235ea1a8553ebedb0c97a30a_getpixels_3daj.gif)
 
 It's mstafa phd candidate or open to Role create web based application deals with environmental monitoring and exports  png map csv time series chart and gif animation and mp4 video. My YouTube is  YouTube.com/@geemap   my Linkedin.com/mstafafarahani 
 Mstafa.farahani@gmail.com 
